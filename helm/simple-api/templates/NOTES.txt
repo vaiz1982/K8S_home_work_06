@@ -1,0 +1,7 @@
+simple-api has been deployed.
+
+To access it locally:
+
+  kubectl --namespace {{ .Release.Namespace }} port-forward svc/{{ include "simple-api.fullname" . }} 8080:{{ .Values.service.port }}
+
+Then open: http://localhost:8080/  and  http://localhost:8080/health
