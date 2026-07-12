@@ -216,5 +216,9 @@ kubectl -n argocd get application simple-api   # SYNC STATUS: Synced, HEALTH STA
 
 
 
+<img width="1301" height="196" alt="Screenshot 2026-07-11 at 23 26 26" src="https://github.com/user-attachments/assets/6deb5cc8-5c93-4beb-b8b3-2940f15fd7e9" />
+
+
+
 
 
