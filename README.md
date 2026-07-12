@@ -1,5 +1,34 @@
 # simple-api — Docker + Helm + Argo CD
 
+
+
+
+
+
+
+
+
+
+
+<img width="1687" height="744" alt="Screenshot 2026-07-12 at 00 52 53" src="https://github.com/user-attachments/assets/b3340b75-a307-41cf-b426-6d769c9b9665" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Что это
 
 Простое Flask-приложение (`app.py`), задеплоенное в Kubernetes через Helm-чарт
